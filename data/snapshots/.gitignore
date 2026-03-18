@@ -1,0 +1,8 @@
+
+# Data files
+*.csv
+data/
+snapshots/
+.idea/
+*.log
+Customer_Dimension_SCD2/data/snapshots
