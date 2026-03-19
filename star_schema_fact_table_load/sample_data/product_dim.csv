@@ -1,0 +1,6 @@
+product_sk,product_id,product_name,category,subcategory,brand,price,valid_from,is_active
+1,P001,iPhone 14,Electronics,Mobile,Apple,80000,2025-01-01,TRUE
+2,P002,Galaxy S23,Electronics,Mobile,Samsung,75000,2025-01-05,TRUE
+3,P003,MacBook Air,Electronics,Laptop,Apple,120000,2025-02-15,TRUE
+4,P004,Sony Headphones,Electronics,Audio,Sony,15000,2025-03-29,TRUE
+5,P005,Office Chair,Furniture,Seating,Godrej,7000,2025-03-31,TRUE

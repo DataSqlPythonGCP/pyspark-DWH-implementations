@@ -1,0 +1,6 @@
+customer_sk,customer_id,customer_name,gender,age,city,state,country,valid_from,is_active
+1,C001,Arjun Mehta,M,34,Mumbai,Maharashtra,India,2026-01-01,TRUE
+2,C002,Neha Sharma,F,29,Delhi,Delhi,India,2026-01-15,TRUE
+3,C003,Rahul Verma,M,41,Bangalore,Karnataka,India,2026-02-01,TRUE
+4,C004,Priya Singh,F,36,Lucknow,Uttar Pradesh,India,2026-02-17,TRUE
+5,C005,Amit Patel,M,45,Ahmedabad,Gujarat,India,2026-03-01,TRUE
