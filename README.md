@@ -10,4 +10,4 @@ This is initial version, plan to make more changes in future.
 
 2. Implementation of Star Schema. 
 A sample implementation for fact/dimension model where order facts is joined with customer,
-product and date dimensions.
+product and date dimensions. Refer /data/sample_dat/*dim.csv for sample dimension data.
