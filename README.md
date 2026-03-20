@@ -10,4 +10,9 @@ This is initial version, plan to make more changes in future.
 
 2. Implementation of Star Schema. 
 A sample implementation for fact/dimension model where order facts is joined with customer,
-product and date dimensions. Refer /data/sample_dat/*dim.csv for sample dimension data.
+product and date dimensions. Refer /data/sample_dat/*dim.csv for sample dimension data. 
+
+3. Basic DQ Framework. Sample DQ rules and Data file in sample_data folder. 
+
+4. Full Fledged GCP-Bigquery archival solution using Python + SQL. This can be used in production with small tweaks.
+
