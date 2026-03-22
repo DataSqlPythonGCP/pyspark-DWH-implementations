@@ -18,5 +18,7 @@ product and date dimensions. Refer /data/sample_dat/*dim.csv for sample dimensio
 
 5. Python based Bigeye (DQ tool) deployment of metrics from DEV-->QA-->Prod. 
 
-6. Late Arriving Dimension solution using PySpark SQL. The idea is to retire facts until dimensions arrive.
+6. Late Arriving Dimension solution using PySpark SQL. 
+   1. The idea is to retire facts until dimensions arrive.
+   2. Process the fact with dummy dimension values and update fact when dimension data is available.
 
